@@ -2,7 +2,9 @@
 
 
 - *installation*
+
 `git clone git@github.com:matthewharwood/locale-renamer.git`
+
 `npm i`
 
 
