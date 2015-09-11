@@ -15,3 +15,6 @@
 
 #change file names
 `node fileRename <path>`
+
+Video on how to use:
+https://www.youtube.com/watch?v=p-E9YA5JYaA
